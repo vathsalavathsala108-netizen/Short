@@ -13,3 +13,6 @@ arr = [1,5,8,0,5,3,8,9]
 target = 18               
 
 print(subarray_sum1(arr , target))
+print("Graeat to do this")
+print("Following this to have ")
+
